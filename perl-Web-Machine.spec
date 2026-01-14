@@ -7,7 +7,7 @@
 Summary:	Web::Machine - A Perl port of Webmachine
 Name:		perl-Web-Machine
 Version:	0.17
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Web/%{pdir}-%{pnam}-%{version}.tar.gz
